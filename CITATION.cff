@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MSFPractica 2
+message: 'Práctica 2: Sistema Cardiovascular'
+type: software
+authors:
+  - given-names: Vania
+    family-names: Rivera
+    email: l22211720@tectijuana.edu.mx
+identifiers:
+  - type: url
+    value: 'https://github.com/VaniDani/MSFPractica2'
+repository-code: 'https://github.com/VaniDani/MSFPractica2'
+keywords:
+  - Modelo de Windkessel
+  - Presión arterial
+  - Sistema Cardiovascular
+  - Función de Transferencia
+  - Análisis matemático
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-03-23'
